@@ -1,0 +1,117 @@
+/* 
+  Localizable.strings
+  Vkmsg
+
+  Created by Igor Khomenko on 3/20/12.
+  Copyright (c) 2012 Injoit. All rights reserved.
+*/
+
+"You have received a push notification" = "Получено новое входящее оповещение";
+
+"Ok" = "Ок";
+
+"Errors" = "Ошибки";
+
+"Messages" = "Сообщения";
+
+"Back" = "Назад";
+
+"Search Results" = "Результаты поиска";
+
+"No phone number" = "Номер не указан";
+
+"No iPhone number" = "Номер не указан";
+
+"VK" = "ВКонтакте";
+
+"Cancel" = "Отмена";
+
+"View personal VK page" = "Просмотреть личную страницу ВКонтакте";
+
+"Add to friends" = "Добавить в друзья";
+
+"Invite has been sent" = "Приглашение было успешно отправлено";
+
+"Friend has been added" = "Друг успешно добавлен в список";
+
+"Online" = "В сети";
+
+"It's me!" = "Это я!";
+
+"Today" = "cегодня";
+
+"My location" = "Мое местоположение";
+
+"Are you sure you want to delete all messages in this dialog?" = "Вы уверены, что хотите удалить все сообщения в этом диалоге?";
+
+"Take a photo" = "Сделать снимок";
+
+"Message was sent successfully" = "Сообщение было отправлено успешно";
+
+"Unable to send a message" = "Не удается отправить сообщение.";
+
+"Choose photo from gallery" = "Выбрать изображение с галереи";
+
+"This source type is not available on this device" = "Этот источник не доступен на этом устройстве";
+
+"Message was not sent. Try again later" = "Сообщение не удалось отправить. Повторить попытку позже.";
+
+"Registration was successful" = "Регистрация завершена успешно";
+
+" An SMS with a special code will be sent to the specified phone number. Please, confirm registration using the form below." = " На указанный телефонный номер будет отправлено SMS сообщение со специальным кодом. Пожалуйста, подтвердите регистрацию при помощи формы, расположенной ниже.";
+
+"Confirmation was successful" = "Подтверждение завершено успешно";
+
+"Look through Radar white turning around to see who is where. Switch to Map and Chat (above) when necessary." = "Найдите других активных пользователей, осматриваясь вокруг через Радар. При необходимости, переключайтесь на режимы Карта и Чат (вверху).";
+
+"Please, Sign in now" = "Пожалуйста, теперь войдите в свой аккаунт";
+
+"Photo has been updated" = "Фото успешно обновлено";
+
+"You will not be disturbed for 8 hours" = "Push-оповещения отключены на 8 часов";
+
+"You will not be disturbed for an hour" = "Push-оповещения отключены на 1 час";
+
+"Friends requests" = "Запросы в друзья";
+
+"Friends suggestions" = "Возможные друзья";
+
+"Important" = "Важные";
+
+"Logout" = "Выход";
+
+"Radar" = "Радар";
+
+"Requests" = "Заявки";
+
+"Participants" = "Собеседники";
+
+"Contacts" = "Контакты";
+
+"Friends" = "Друзья";
+
+"Favorites" = "Избранные";
+
+"Send invite" = "Пригласить";
+
+"Username or password is incorrect" = "Неверное имя пользователя или пароль";
+
+"Send message" = "Отправить сообщение";
+
+"Hello! I want to invite you to the VK social network! I'm already there and wait for you." = "Привет! Я хочу пригласить тебя присоединиться к социальной сети ВKонтакте! Я уже там и жду тебя.";
+
+"Map" = "Карта";
+
+"Chat" = "Чат";
+
+"Please select at least one friend" = "Пожалуйста, выберите хотя бы одного друга";
+
+"Remove attachment" = "Удалить вложение";
+
+"Week ago" = "неделя";
+
+"Yesterday" = "вчера";
+
+"Copy" = "Копировать";
+
+"Delete" = "Удалить";

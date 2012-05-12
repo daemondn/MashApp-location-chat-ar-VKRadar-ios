@@ -1,0 +1,41 @@
+//
+// Prefix header for all source files of the 'Vkmsg' target in the 'Vkmsg' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    // sdk
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <AddressBook/AddressBook.h>
+    #import <AddressBookUI/AddressBookUI.h>
+    #import <MapKit/MapKit.h> 
+    #import <QuickBlox/QuickBlox.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <CoreLocation/CoreLocation.h>
+	#import <AudioToolbox/AudioToolbox.h>
+	#import <AVFoundation/AVFoundation.h>
+
+    // inner
+    #import "DataManager.h"
+    #import "Defines.h"
+    #import "VKService.h"
+    #import "QBConsts.h"
+    #import "Notifications.h"
+    #import "NotificationManager.h"
+	#import "FlurryAnalytics.h"
+#ifdef DEBUG
+    #import "TestManager.h"
+#endif
+
+    // categories
+    #import "NSArray+convert.h"
+    #import "NSString+encrypt.h"
+    #import "UIColor+hex.h"
+    #import "UIImage+ImageExtension.h"
+#endif
